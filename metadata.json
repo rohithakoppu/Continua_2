@@ -1,0 +1,6 @@
+{
+  "name": "CONTINUA — AI Work Continuity & Workspace",
+  "description": "Change the AI. Keep the Work. The permanent project memory and cross-AI handoff workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
